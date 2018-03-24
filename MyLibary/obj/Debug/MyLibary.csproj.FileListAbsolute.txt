@@ -1,0 +1,10 @@
+D:\SAE\Unterrichte\OOP\Basics\MyLibary\bin\Debug\MyLibary.dll
+D:\SAE\Unterrichte\OOP\Basics\MyLibary\bin\Debug\MyLibary.pdb
+D:\SAE\Unterrichte\OOP\Basics\MyLibary\obj\Debug\MyLibary.csprojResolveAssemblyReference.cache
+D:\SAE\Unterrichte\OOP\Basics\MyLibary\obj\Debug\MyLibary.dll
+D:\SAE\Unterrichte\OOP\Basics\MyLibary\obj\Debug\MyLibary.pdb
+E:\Programming\C#\Encapsulation\MyLibary\bin\Debug\MyLibary.dll
+E:\Programming\C#\Encapsulation\MyLibary\bin\Debug\MyLibary.pdb
+E:\Programming\C#\Encapsulation\MyLibary\obj\Debug\MyLibary.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Encapsulation\MyLibary\obj\Debug\MyLibary.dll
+E:\Programming\C#\Encapsulation\MyLibary\obj\Debug\MyLibary.pdb
